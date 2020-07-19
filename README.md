@@ -10,7 +10,7 @@
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/desafio-05-primeiro-projeto-nodejs?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/faroanderson/">
-    <img alt="Made by Anderson Faro" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+    <img alt="Made by Anderson Faro" src="https://img.shields.io/badge/made%20by-Anderson%20Faro-blue">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
